@@ -1,4 +1,4 @@
-# 🔍 Karakter Arşivi: Dijital ve Sosyal Analiz Laboratuvarı
+# 🔍 The Analysis Vault
 
 Burası sıradan bir blog değil; insan davranışlarının, mimiklerin ve gizli karakterlerin deşifre edildiği bir veri bankasıdır.
 
