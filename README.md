@@ -31,7 +31,7 @@ Hayatında analiz edilmesini istediğin biri mi var? Ya da birinin davranışlar
 ## 📂 Vaka #02: [Fazla mutlu "görünen" insanlar]
 
 **Gözlem:** 
-Bu bireyler çevresinde veya sosyal ortamında her zaman mutlu, onaycı ve pozitif bir kişiliğe sahiptirler. daha doğrusu, öyle davranırlar. Bu yapaylık çoğu kişiye itici gelsede genelde onlar "kötü biri" olarak adlandırılmazlar. Genelde öyle de değillerdir zaten. Hep iyi, ortama ayak uyduran ve sevimli olma hali çoğunlukla dışlanma korkusu veya geçmişte yaşadıkları benzer türde bir zorbalık sonucu olarak ortaya çıkar. Bu tip kişilerde fark ettiğim bazı davranışlar var;
+Bu bireyler çevresinde veya sosyal ortamında her zaman mutlu, onaycı ve pozitif bir kişiliğe sahiptir. daha doğrusu, öyle davranır. Bu yapaylık çoğu kişiye itici gelsede genelde onlar "kötü biri" olarak adlandırılmaz. Genelde öyle de değildir zaten. Hep iyi, ortama ayak uyduran ve sevimli olma hali çoğunlukla dışlanma korkusu veya geçmişte yaşadığı benzer türde bir zorbalık sonucu olarak ortaya çıkar. Bu tip kişilerde fark ettiğim bazı davranışlar var;
 
 **Onaylanma ihtiyaci:** Kimisinde dış görünüş olarak, kimisinde ise başarı oranı ile ortaya çıkar. Bu aslında genel olarak insanların gerek duyduğu bir dopamin açlığıdır. Kişi, onaylanmak ister. Bir konuda illaki bir özgüvensizlikleri vardır. Benim bunu fark ettiğim kişinin davranışları güzellik kaygısı üzerineydi. "Ben güzelmiyim?", "doğruyu söyle ben alınmam", "sence ne yapsam daha güzel olur?" soruları kişinin içindeki en büyük zayıflıktır. Aslında en ufak dertleşmede bütün içini dökebilecek yapıya sahiptir. Her ne kadar masum bir durum olsada **güvenin sonu ihanet ile bitebilir..**
 
